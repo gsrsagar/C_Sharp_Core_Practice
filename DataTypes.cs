@@ -7,7 +7,7 @@ namespace ConsoleApp1
 {
     internal class DataTypes
     {
-        public static void Main1(string[] args)
+        public static void Main1122(string[] args)
         {
             Console.WriteLine("hi");
             Int64 age = 2147483647; // 4 bytes 32 bit

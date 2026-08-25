@@ -8,7 +8,7 @@ namespace ConsoleApp1.Day48
     internal class DelegatesExp
     {
         
-        public static void Main(string[] args)
+        public static void Main111(string[] args)
         {
             Process p = new Process();  
            
