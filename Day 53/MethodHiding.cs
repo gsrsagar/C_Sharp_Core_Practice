@@ -6,7 +6,7 @@ namespace ConsoleApp1.Day_53
 {
      class MethodHiding
     {
-        public static void Main(string[] args)
+        public static void Main223(string[] args)
         {
             Human2 o = new Human2();
             o.Display();
